@@ -1,0 +1,4 @@
+interface:
+  display_name: "컬러 스킬"
+  short_description: "강한 보색 대비 HTML 컬러 블록 디자인 시스템"
+  default_prompt: "Use $color-skill to design an HTML page with bold paired color blocks and high-contrast palette logic."
