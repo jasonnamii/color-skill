@@ -1,5 +1,6 @@
 ---
 name: color-skill
+version: 1.0
 description: Bold two-tone HTML color system from the user's palette screenshots. Use when the user says 컬러 스킬, color-skill, this color pattern, 컬러 패턴, 팔레트 HTML, or asks to make an HTML page/site/report with vivid paired color blocks, large rounded panels, high-contrast typography, Instagram-style palette cards, or strong complementary color rhythm.
 ---
 
